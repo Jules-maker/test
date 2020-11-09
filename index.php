@@ -6,7 +6,7 @@
 // git config --global user.name "Jules-Maker"
 
 
-
+echo "rajout";
 // git commit -m "init git"
 //git add --all | index.php
 
