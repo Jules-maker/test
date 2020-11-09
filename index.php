@@ -1,10 +1,11 @@
 <?php
 
+//GIT EST UN OUTIL DE VERSIONNING
+//GITHUB est un hébergeur de repositories GIT
+// git config --global user.email "jules.giraud@outlook.fr"
+// git config --global user.name "Jules-Maker"
 
-git config --global user.email "quidelantoine@gmail.com"
-git config --global user.name "quidelantoine"
 
 
-
-git commit -m "init git"
+// git commit -m "init git"
  ?>
