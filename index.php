@@ -8,4 +8,7 @@
 
 
 // git commit -m "init git"
+//git add --all | index.php
+
+//git push
  ?>
