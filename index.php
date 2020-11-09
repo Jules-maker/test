@@ -4,11 +4,12 @@
 //GITHUB est un hébergeur de repositories GIT
 // git config --global user.email "jules.giraud@outlook.fr"
 // git config --global user.name "Jules-Maker"
-
-
-echo "rajout";
 // git commit -m "init git"
 //git add --all | index.php
 
 //git push
+
+echo "exo git";
+echo "ça va faire des collisions ça";
+
  ?>
